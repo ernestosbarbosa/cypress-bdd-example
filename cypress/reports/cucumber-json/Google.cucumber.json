@@ -1,0 +1,48 @@
+[
+  {
+    "description": "  I want to open a social network page",
+    "keyword": "Feature",
+    "name": "The Facebook",
+    "line": 1,
+    "id": "the-facebook",
+    "tags": [],
+    "uri": "Google.feature",
+    "elements": [
+      {
+        "id": "the-facebook;opening-a-social-network-page",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Opening a social network page",
+        "tags": [
+          {
+            "name": "@focus",
+            "line": 5
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I open Google page",
+            "result": {
+              "status": "passed",
+              "duration": 1307000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I see \"Google\" in the title",
+            "result": {
+              "status": "passed",
+              "duration": 16000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

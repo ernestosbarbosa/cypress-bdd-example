@@ -1,0 +1,57 @@
+[
+  {
+    "keyword": "Funcionalidade",
+    "name": "Categorias",
+    "line": 2,
+    "id": "categorias",
+    "tags": [],
+    "uri": "Categoria.feature",
+    "elements": [
+      {
+        "id": "categorias;acessar-categoria",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "Acessar Categoria",
+        "tags": [
+          {
+            "name": "@smokeTest",
+            "line": 4
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 6,
+            "name": "que acessei a home do site",
+            "result": {
+              "status": "passed",
+              "duration": 2291000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 7,
+            "name": "seleciono a categoria T-shirts",
+            "result": {
+              "status": "passed",
+              "duration": 1277000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 8,
+            "name": "devo ser direcionado para o catalogo de T-shirts",
+            "result": {
+              "status": "passed",
+              "duration": 24000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
