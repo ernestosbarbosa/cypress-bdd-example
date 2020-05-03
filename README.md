@@ -8,7 +8,7 @@ Projeto de exemplo para realização de testes utilizando o Cypress e features e
 
 ## Estrutura de pastas
 
-📦cypress-bdd-example 
+📦cypress-bdd-example
  ┣ 📂cypress  
  ┃ ┣ 📂fixtures  
  ┃ ┃ ┗ 📜example.json  
