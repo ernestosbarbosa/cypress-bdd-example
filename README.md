@@ -5,7 +5,6 @@ Projeto de exemplo para realização de testes utilizando o Cypress e features e
 ## Ferramentas utilizadas:
 - [VSCode](https://code.visualstudio.com/ "VSCode")
 - [Cypress](https://www.npmjs.com/package/cypress "Cypress")
-- [Joi](https://www.npmjs.com/package/@hapi/joi "Joi")
 
 ## Estrutura de pastas
 
