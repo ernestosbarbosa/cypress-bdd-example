@@ -2,7 +2,7 @@ import { Given, When, Then } from "cypress-cucumber-preprocessor/steps";
 import homePage from '../../support/pages/Home'
 import categoriaPage from '../../support/pages/Categoria'
 
-Given("que acessei a home do site", () => {
+Given("que acessei a pagina inicial", () => {
     homePage.acessar()
 })
 
